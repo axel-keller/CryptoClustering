@@ -1,3 +1,3 @@
-# CryptoClustering
-Module 19 Challenge
-Used AI to help me with scattered plot settings 
+## CryptoClustering Module 19 Challenge
+
+Used hvPlot documentation to help me with both scattered plot settings. 
